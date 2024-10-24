@@ -30,6 +30,7 @@ int main(void) {
     break;
     case 7: 
     printf("July");
+    break;
     case 8: 
     printf("August");
     break;
